@@ -22,4 +22,6 @@ https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="Sports TV"tvg-id="SportsTV"tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/48/Sportstv_logosu.png"group-title="SPOR",Sports TV
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://4.bp.blogspot.com/-dLxVUxRkfy0/VplGqLOR-RI/AAAAAAAAN9Q/nyJtf--UVtU/s1600/galatasaraytv4.jpg"group-title="SPOR",GSTV
+
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist.m3u8
+#EXTINF 
